@@ -26,6 +26,9 @@ int main()
 
         board->PopulateBoard(skeletonBoard);
         board->Solve();
+        cout << "solved board:\n";
+        board->printBoard();
+
 
         vector<vector<int>> skeletonAnswer
                     {
