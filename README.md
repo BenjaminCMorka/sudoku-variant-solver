@@ -41,6 +41,8 @@ vector<string> skeletonBoard{
     "-23*0*****",
     "043-608*0-1"
 };
+```
+
 ---
 
 ## Tech Stack
